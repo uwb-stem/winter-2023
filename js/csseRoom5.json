@@ -1,0 +1,15 @@
+{
+    "csse": [
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-5-130",
+            "title": "Project Title",
+            "studentName": "Jenny Harston",
+            "studentMajor": "CSSE",
+            "projectType": "",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/placeholder/capstone CSS poster.PNG",
+            "abstract": ""
+        }              
+    ]
+}

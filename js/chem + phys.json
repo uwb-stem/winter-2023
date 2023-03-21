@@ -1,0 +1,316 @@
+{
+    "phys": [
+        {
+            "time": "8:45 AM - 9:00 AM",
+            "projectId": "phys-845",
+            "title": "Study of Extremely High Velocity Outflows in Sloan Digital Sky Survey spectra and in the most luminous quasar SMSS J215728",
+            "studentName": "Wendy Garcia Naranjo",
+            "studentMajor": "Physics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Paola Rodriguez Hidalgo ",
+            "posterLink": "./posters/chem + phys/wendy Naranjo Poster.jpg"
+        },
+        {
+            "time": "9:00 AM - 9:15 AM",
+            "projectId": "phys-900",
+            "title": "In Search of Extremely High-Velocity Outflows ad Ultra Fast Outflow Coexistence",
+            "studentName": "Kelvin Zeng",
+            "studentMajor": "Physics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/chem + phys/Kelvin Zeng Slide.png"
+        },
+        {
+            "time": "9:15 AM - 9:30 AM",
+            "projectId": "phys-915",
+            "title": "Extremely High-Velocity Outflow Quasars",
+            "studentName": "Dakota Bunger",
+            "studentMajor": "Physics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Paola Rodriguez Hidalgo ",
+            "posterLink": "./posters/chem + phys/First Slide Dakota Bunger.jpg"
+        },
+        {
+            "time": "9:30 AM - 9:45 AM",
+            "projectId": "phys-930",
+            "title": "Triple Top Quark",
+            "studentName": "Cort Stewart Thoreson",
+            "studentMajor": "Physics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Matthew Gliboff",
+            "posterLink": "./posters/chem + phys/Cort Thoreson Slide.PNG"
+        },
+        {
+            "time": "9:45 AM - 10:00 AM",
+            "projectId": "phys-945",
+            "title": "Tutorial - Intro to Quantum Circuits:</u> Solving the Deutsch - Jozsa Problem",
+            "studentName": "Matthew Bennet",
+            "studentMajor": "Physics",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Ansel Neunzert",
+            "posterLink": "./posters/chem + phys/Matthew Bennet Slide.png"
+        },
+        {
+            "time": "10:00 AM - 10:15 AM",
+            "projectId": "phys-1000-1",
+            "title": "Analysis of Volatile Organic Compounds (VOCs) from Home-Grown Tomatoes using SPME and GC-MS",
+            "studentName": "Jasmine Nguyen",
+            "studentMajor": "Biochemistry (B.S.) / Biology Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Hyung Kim",
+            "posterLink": "./posters/chem + phys/Jasmine Nguyen and Rachel Ren.PNG"
+        },
+        {
+            "time": "10:00 AM - 10:15 AM",
+            "projectId": "phys-1000-2",
+            "title": "Analysis of Volatile Organic Compounds (VOCs) from Home-Grown Tomatoes using SPME and GC-MS",
+            "studentName": "Rachel Ren",
+            "studentMajor": "Chemistry (B.S.) / Biology Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Hyung Kim",
+            "posterLink": "./posters/chem + phys/Jasmine Nguyen and Rachel Ren.PNG"
+        },
+        {
+            "time": "10:15 AM - 10:30 AM",
+            "projectId": "phys-1015",
+            "title": "How Effective Are PurpleAir Sensors?",
+            "studentName": "Katie Thompson",
+            "studentMajor": "Chemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Dan Jaffe",
+            "posterLink": "./posters/chem + phys/KThompson_IntroSlide.png"
+        },
+        {
+            "time": "10:30 AM - 10:45 AM",
+            "projectId": "phys-1030",
+            "title": "Effects of Gases Released Indoors on Air Quality",
+            "studentName": "Santiago Henao",
+            "studentMajor": " Chemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Dan Jaffe",
+            "posterLink": "./posters/chem + phys/Santiage Henao.png"
+        },
+        {
+            "time": "10:45 AM - 11:00 AM",
+            "projectId": "phys-1045",
+            "title": "Pre-Class Work with Active Engagement Shapes In-Class Discussion & Understanding",
+            "studentName": "Thaseus Karkabe-Olson",
+            "studentMajor": "Physics (B.S.) / Mathematics Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Alanna Pawlak",
+            "posterLink": "./posters/chem + phys/Thaseus Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-1",
+            "title": "Hypochlorous Acid: Impairing Quorum Sensing Compounds and Virulence Factors in Chronic Wound Biofilms",
+            "studentName": "Andrew Clark",
+            "studentMajor": "Biochemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Lori Robins",
+            "posterLink": "./posters/chem + phys/Jasmine Singh Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-2",
+            "title": "Hypochlorous Acid: Impairing Quorum Sensing Compounds and Virulence Factors in Chronic Wound Biofilms",
+            "studentName": "Aaron Converse",
+            "studentMajor": "Biochemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Lori Robins",
+            "posterLink": "./posters/chem + phys/Jasmine Singh Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-3",
+            "title": "Hypochlorous Acid: Impairing Quorum Sensing Compounds and Virulence Factors in Chronic Wound Biofilms",
+            "studentName": "Jasmine Singh",
+            "studentMajor": "Biochemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Lori Robins",
+            "posterLink": "./posters/chem + phys/Jasmine Singh Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-4",
+            "title": "N-Chlorotaurine: Synthesis for Improving the treatment of Chronic Wounds",
+            "studentName": "Paul Darling",
+            "studentMajor": "Chemistry (B.S.)",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Lori Robins",
+            "posterLink": "./posters/chem + phys/Paurl Darling Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-5",
+            "title": "What do Students want from a Teacher Assistant?",
+            "studentName": "Ekaterina Khmeleva",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr",
+            "posterLink": "./posters/chem + phys/Ekaterina Poster.jpg"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-6",
+            "title": "Development of Thermal Conductivity Measurement for Bismuth Telluride Thin Films",
+            "studentName": "Phong Li",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": " Dr. Subramanian Ramachandran",
+            "posterLink": "./posters/chem + phys/Phong Li Poster.jpg"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-7",
+            "title": "Prepping like a Professor is Useless",
+            "studentName": "Easton Pierce",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr",
+            "posterLink": "./posters/chem + phys/Easton Pierce.jpg"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-8",
+            "title": "What the Heck do Physical Sciences Students Want from a Peer Facilitator?",
+            "studentName": "Veronica Powell",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr ",
+            "posterLink": "./posters/chem + phys/Poster Veronica Powell22.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-9",
+            "title": "Peer Facilitating Improves Argumentation Skills",
+            "studentName": "Ferel Putra",
+            "studentMajor": "Physics (B.S.) ",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr ",
+            "posterLink": "./posters/chem + phys/Ferel Putra Senior Project Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-10",
+            "title": "Study of Binary and Ternary Systems of Thin Film Semiconductors Using Thermal Evaporator",
+            "studentName": "Ferel Putra",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Subramanian Ramachandran ",
+            "posterLink": "./posters/chem + phys/Ferel Putra Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-11",
+            "title": "Can Student Educators grow through Student Feedback?",
+            "studentName": "Natalia Rodriguez",
+            "studentMajor": "Pre - Major",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr",
+            "posterLink": "./posters/chem + phys/Natalia Rodriguez Poster.PNG"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-12",
+            "title": "Seasonal Phytoplankton Succession in Lake Truly",
+            "studentName": "Lauren Schwarz",
+            "studentMajor": "Conservation & Restoration Science (B.S.) / Biology Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Avery Shinneman",
+            "posterLink": "./posters/chem + phys/Lauren Schwarz Poster .png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-13",
+            "title": "My Improvements as a Peer Facilitator",
+            "studentName": "Jeremy Thomas",
+            "studentMajor": "Pre - Major",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr",
+            "posterLink": "./posters/chem + phys/Jeremy Thomas Poster.PNG"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-14",
+            "title": "A Cross Seasonal Study of Emergent Plant Species and Water Quality at Lake Truly",
+            "studentName": "Rileigh Thompson",
+            "studentMajor": "Conservation and Restoration Science (B.S.) / Biology Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Avery Shinneman ",
+            "posterLink": "./posters/chem + phys/Rileigh Thompson.PNG"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-15",
+            "title": "A Tutorial for Introduction of Quantum Mechanics",
+            "studentName": "Tri Tran",
+            "studentMajor": "Physics (B.S.) / Mathematics Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Ansel Neunzert",
+            "posterLink": "./posters/chem + phys/Tri Tran Poster Presentation .png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-16",
+            "title": "Charaterizing Semiconductor Thin Films Through Resistivity and Seebeck Coefficient Measurements",
+            "studentName": "Tony Nguyen",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Subramanian Ramachandran",
+            "posterLink": "./posters/chem + phys/Tony Nguyen Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-17",
+            "title": "Building a FPHA Based Particle Counter",
+            "studentName": "Mark Schmidt",
+            "studentMajor": "Physics (B.S.) / Mathermatics Minor",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Subramanian Ramachandran ",
+            "posterLink": "./posters/chem + phys/Mark Schmidt Poster.png"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-18",
+            "title": "Capturing Imagination: Detecting Student <b>Physics Ideas</b> to Develop their Intuition",
+            "studentName": "Alex Vong",
+            "studentMajor": "Physics (B.S.)",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr",
+            "posterLink": "./posters/chem + phys/Alex Vong Poster.PNG"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-19",
+            "title": "New Drug Discovery for Tuberculosis Using De Novo Drug Design Method",
+            "studentName": "Anton Galenko",
+            "studentMajor": "Biochemistry (B.S.) / Biology Minor",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Peter Anderson ",
+            "posterLink": "./posters/chem + phys/AGalenko Research Poster-1.PNG"
+        },
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-20",
+            "title": "Guiding Questions Improve Student's Overall Satisfaction and Team Dynamics",
+            "studentName": "Pranav Ananthram",
+            "studentMajor": "Pre - Major",
+            "projectType": "Physics",
+            "facultyAdvisor": "Dr. Rachel Scherr ",
+            "posterLink": "./posters/chem + phys/Pranav Poster.PNG"
+        },
+
+
+        {
+            "time": "11:00 AM - 12:00 PM",
+            "projectId": "phys-1100-21",
+            "title": "Novel Lead Compounds that Bind to the Human Serotonin Transporter Protein (SERT) with High Affinity for the Treatment of Clinical Depression",
+            "studentName": "Jacqueline Monteza",
+            "studentMajor": "Biology (B.S.) / Neuroscience Minor",
+            "projectType": "Chemistry",
+            "facultyAdvisor": "Dr. Peter Anderson ",
+            "posterLink": "./posters/chem + phys/Jacqueline Monteza Poster.png"
+        }
+    ]
+}

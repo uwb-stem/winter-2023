@@ -1,0 +1,254 @@
+{
+    "ac": [
+        {
+            "time": "1:30 PM - 1:55 PM",
+            "projectId": "ac-130-1",
+            "title": "Voices Unheard: Reflecting Student Experiences when Increasing Diversity in CS",
+            "studentName": "Mychael Johnson",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/johnson_mychael.JPG"
+        },
+        {
+            "time": "1:30 PM - 1:55 PM",
+            "projectId": "ac-130-2",
+            "title": "The Impact of AI and Machine Learning on United State Health Care System",
+            "studentName": "Tek Kuong",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/kuong_tek.jpg"
+        },
+        {
+            "time": "1:30 PM - 1:55 PM",
+            "projectId": "ac-130-3",
+            "title": "ChekMe Mental Health Application",
+            "studentName": "Matthew Le",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/le_matthewd.jpg"
+        },
+        {
+            "time": "1:30 PM - 1:55 PM",
+            "projectId": "ac-130-4",
+            "title": "Temporary: Animal Rescue",
+            "studentName": "Melanie Palomino",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/placeholder/capstone CSS poster.PNG"
+        },
+        {
+            "time": "1:30 PM - 1:55 PM",
+            "projectId": "ac-130-5",
+            "title": "ChekMe Mental Health Application",
+            "studentName": "Wuhbet Tewelde",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/tewelde_wuhbet.png"
+        },
+        {
+            "time": "1:55 PM - 2:20 PM",
+            "projectId": "ac-155-1",
+            "title": "Demystifying Climate Change: A Strategic Content, Assets, and Social Media Management",
+            "studentName": "Fatuma Abdullahi",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/abdullahi_fatuma.png"
+        },
+        {
+            "time": "1:55 PM - 2:20 PM",
+            "projectId": "ac-155-2",
+            "title": "Navi Digital Assistant",
+            "studentName": "William Charbonneau",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/charbonneau_william.png"
+        },
+        {
+            "time": "1:55 PM - 2:20 PM",
+            "projectId": "ac-155-3",
+            "title": "Voices Unheard: Reflecting Student Experiences when Increasing Diversity in CS",
+            "studentName": "Julia Dang",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/dang_julia.jpg"
+        },
+        {
+            "time": "1:55 PM - 2:20 PM",
+            "projectId": "ac-155-4",
+            "title": "Interactive Salmon Walk",
+            "studentName": "Trevor Murphy",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/murphy_trevor.jpg"
+        },
+        {
+            "time": "1:55 PM - 2:20 PM",
+            "projectId": "ac-155-5",
+            "title": "Temporary: Fantasy Sports Statistics",
+            "studentName": "Alexander Smith",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/smith_alexander.png"
+        },
+        {
+            "time": "2:20 PM - 2:45 PM",
+            "projectId": "ac-220-1",
+            "title": "The Impact of Leadership Styles on Breach Severity",
+            "studentName": "Fana Hadush",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/hadush_fana_kidane.jpg"
+        },
+        {
+            "time": "2:20 PM - 2:45 PM",
+            "projectId": "ac-220-2",
+            "title": "Influence of Ogranizational Culture on Information Security Compliance",
+            "studentName": "Emiliya Jones",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/jones_emiliya.jpg"
+        },
+        {
+            "time": "2:20 PM - 2:45 PM",
+            "projectId": "ac-220-3",
+            "title": "Strategies to reduce turnover intention in the IT industry",
+            "studentName": "Tram Nguyen",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/nguyen_tramt.jpeg"
+        },
+        {
+            "time": "2:20 PM - 2:45 PM",
+            "projectId": "ac-220-4",
+            "title": "The Impact of Leadership Styles on Breach Severity",
+            "studentName": "Yeabsira Tekle",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/tekle_yeabsira.jpeg"
+        },
+        {
+            "time": "2:20 PM - 2:45 PM",
+            "projectId": "ac-220-5",
+            "title": "The Impact of Leadership Styles on Breach Severity",
+            "studentName": "Melaney Ung",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/ung_melaney.jpg"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-1",
+            "title": "Moving Company Website",
+            "studentName": "Trevor Barham",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/barham_trevor.png"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-2",
+            "title": "ChekMe Mental Health Application",
+            "studentName": "Matthew Cho",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/cho_matthew.jpg"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-3",
+            "title": "Interactive Salmon Walk",
+            "studentName": "Sarah Leung",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/leung_sarah.png"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-4",
+            "title": "Developing an Illness Severity Toolkit",
+            "studentName": "Ted Liu",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/liu_ted.png"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-5",
+            "title": "ChekMe Mental Health Application",
+            "studentName": "Robel Messele",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/messele_robel.jpg"
+        },
+        {
+            "time": "2:45 PM - 3:10 PM",
+            "projectId": "ac-245-6",
+            "title": "WarrenBot: A bot to help you with your investment decisions",
+            "studentName": "Pankhuri Singhal",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/placeholder/capstone CSS poster.PNG"
+        },
+        {
+            "time": "3:10 PM - 3:35 PM",
+            "projectId": "ac-310-1",
+            "title": "Team Formation in Online Classes",
+            "studentName": "Debbie Alvarado Latino",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/alvarado_latino_debbie.png"
+        },
+        {
+            "time": "3:10 PM - 3:35 PM",
+            "projectId": "ac-310-2",
+            "title": "Interactive Salmon Walk",
+            "studentName": "Dannon Engquist",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/engquist_dannon.png"
+        },
+        {
+            "time": "3:10 PM - 3:35 PM",
+            "projectId": "ac-310-3",
+            "title": "Effective Social Engineering Training in the Workplace",
+            "studentName": "Zayeem Hamid",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/ac/hamid_zayeem.jpg"
+        },
+        {
+            "time": "3:10 PM - 3:35 PM",
+            "projectId": "ac-310-4",
+            "title": "Temporary: Preparing for Technical Interviews",
+            "studentName": "Shutao Zhang",
+            "studentMajor": "Applied Computing",
+            "projectType": "Applied Computing",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/placeholder/capstone CSS poster.PNG"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "csse": [
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-2-100",
+            "title": "Amazon Software Development Engineer Internship",
+            "studentName": "Braxton Diaz",
+            "studentMajor": "CSSE",
+            "projectType": "Internship - Amazon",
+            "facultyAdvisor": "Dr. Afra Mashhadi",
+            "posterLink": "./posters/csse/diaz-braxton-hunter.png",
+            "abstract": "For my capstone, I had an internship at Amazon where I was a part of team Neptune. Amazon Neptune is a fully managed cloud database service that allows users to build graph applications. As an intern, my role was to work alongside my mentor to implement a software solution that solves an internal issue at team Neptune. Our steps were to identify the internal problem, propose our solution, and implement our solution while meeting weekly deadlines and giving weekly demos.\n\n At team Neptune, engineers spend a lot of time writing and testing complex graph queries and algorithms. The problem we chose to solve was that the team did not have a proper testing environment for these queries. Team members desired a way to test their queries against various graphs and various graph sizes. These queries needed to be tested against large scale graphs that can simulate real customer data.\n\n The solution we chose to implement was a graph generator. This generator allowed team members to specify the size of a graph and generate a realistic graph in minimal time. I implemented three variations of the graph generator and measured performance. A key performance metric was the graphs data distribution statistics, which would show the shape of the graph and whether our graphs emulated real world data. I also prioritized generation speed, to ensure users can generate hundreds of various size graphs as quickly as possible.\n\n As a result, my solution provided Amazon Neptune with a proper testing environment for testing graph queries. Team members have a reliable tool they can use to create realistic graphs for testing. Queries can now be tested against extremely large datasets without using customer data."
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-2-115",
+            "title": "Cyber Risk Advisory Internship @ Deloitte Touche Tohmatsu Ltd.",
+            "studentName": "Egor Kolyshkin",
+            "studentMajor": "CSSE",
+            "projectType": "Internship - Deloitte",
+            "facultyAdvisor": "Dr. Afra Mashhadi",
+            "posterLink": "./posters/csse/kolyshkin-egor.png",
+            "abstract": "My Capstone project was a Risk & Financial Advisory - Cyber internship at Deloitte Touche Tohmatsu Ltd. in the Summer of 2022. During my internship, I worked on two projects in the Data & Privacy sub-capability.\n\n The first project was a data management/remediation project for a Fortune 500 company. The client was storing various company and consumer data on the following repositories: AWS S3, Windows FileShare (CIFS), Oracle, OneDrive, Microsoft SQL, and Snowflake. Because some of the data was unstructured and is of different levels of classification, the easiest solution is a data management platform that can connect to said repositories and remediate the data in accordance with current privacy legislation. Different platforms were considered, more specifically offerings from Symantec and Informatica, but BigID was ultimately the platform of choice for this project due to its out-of-the-box classifiers and automated discovery process. Our team used said data discovery process to inventorize the data, remediated it via ML algorithms in BigID as well as regular expressions, and helped transition the client to the new platform.\n\n The second project was a privacy policy and documentation revision for a major pharmaceutical company. Since the company operates in various regions of the world, it is subject to differing privacy legislation like the GDPR and CCPA, and is therefore required to maintain specific documentation, assessments, and consent preference management tools. The solution was to assess the current state of compliance with said legislation, revise existing documentation, and implement a better consent management and privacy assessment system via the data privacy platform OneTrust. My team was able to revise the existing Privacy by Design (PbD) document, create a Data Privacy Impact Assessment in OneTrust and accompanying documentation, including a RACI and risk matrices, which identify risk triggers and people responsible, accountable, consulted, and informed throughout the PbD procedure.\n\n In conclusion, I worked on projects concerning data management and privacy policy compliance, and learned about how data is managed in large companies, how companies comply with privacy legislation, and the ins and outs of cybersecurity consulting. Towards the end of the internship, I was offered a full-time position as an incoming Cyber Analyst starting in Summer 2023."
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-2-130",
+            "title": "Agent-Based Benchmark Applications for MASS CUDA",
+            "studentName": "Christopher Sumali",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "./posters/csse/sumali-christopher.png",
+            "abstract": "Multi-Agent Spatial Simulation (MASS) is a parallel-computing library being developed by the Distributed Systems Lab (DSLab) under Professor Fukuda’s guidance. MASS CUDA is a new version of MASS that utilizes the processing power of GPUs to significantly speed up the simulation process, allowing for larger and more complex simulations to be run in less time.\n\n My main objective is to develop two benchmark applications for MASS CUDA: MATSim and Tuberculosis. The purpose of this research is to verify the accuracy of the MASS CUDA library and measure its performance against other agent-based models using the two benchmark applications.\n\n These two benchmark applications were selected because they are more complex than previously developed applications in MASS CUDA. Previous applications only dealt with simple agent movement or static agents, often referred to as places. In contrast, MATSim involves synchronization between agents and congestion of agents in places, while Tuberculosis involves two types of agents, agent spawning, and agent termination, which were not present in previous applications.\n\n After two quarters of developing the benchmark applications, I discovered several bugs and missing features in the MASS CUDA library, which were subsequently addressed and implemented. This improved version of the MASS CUDA library can now be utilized for other applications involving complex behaviors, thus optimizing its functionality."
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-2-145",
+            "title": "Computational Geometry: MASS vs. Stream-Based Libraries",
+            "studentName": "Joshua Helzerman",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Munehiro Fukuda",
+            "posterLink": "./posters/csse/helzerman-josh.png",
+            "abstract": "For my Capstone project, I worked with Professor Fukuda and a team a of students developing and benchmarking a parallel computing library known as Multi-Agent Spatial Simulation (MASS). The team’s goal was to implement some popular computational geometry algorithms using the MASS Java library, then implement those same algorithms in two popular stream-based libraries for parallel computing: Apache Spark and Hadoop MapReduce, and finally benchmark these three implementations to compare execution performance and programmability.\n\n My goals within the team were to:\n\n 1) Benchmark the Point Location algorithms made with MASS and MapReduce.\n\n 2) Implement the Convex Hull algorithm with MapReduce and Spark.\n\n Implementing the Convex Hull algorithm on MapReduce, I realized that we could improve performance by shrinking the Hadoop Distributed File System (HDFS) block size. This change led to improvements in Point Location’s MapReduce performance and will likely improve our other MapReduce benchmarks. While we are not trying to optimize our MapReduce execution times, small improvements like these can improve our credibility, showing that we understand MapReduce and the HDFS that supports it.\n\n Benchmarking Point Location on MASS, I was able to improve execution time significantly by taking advantage of our cluster’s network file system (NFS). Originally, the program sent serialized Java objects over the network to create a map of trapezoids. Now, using a new feature I implemented in MASS’s Parallel IO library, each computing node instantiates its trapezoids from a section of the input file on NFS. This taught me to be more conscious of middleware already on my infrastructure before implementing network-bound solutions. More importantly, I hope that my parallel IO feature will encourage more MASS Java users to use parallel IO and improve their own execution performance.\n\n My favorite part of this project was learning to solve problems using the agents and places abstractions provided by MASS. Even if MASS does not outperform stream-based solutions in all cases, the MASS programming paradigm allowed us to come up with solutions completely different from the decades-old sequential algorithms we used with stream-based libraries. More importantly, these solutions were not just unique in concept but also in computational complexity. Where a sequential algorithm’s complexity may be based off the number of inputs, a MASS algorithm’s complexity may be based off the size of the input domain."
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-2-200",
+            "title": "Team Hub Android App",
+            "studentName": "Abd Elswify",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. Min Chen",
+            "posterLink": "./posters/csse/elswify-abdarrahman-ashraf.PNG",
+            "abstract": "The Team Hub mobile application is a tool designed to help sports teams stay organized and connected. The application features a message board, calendar, and alert board. Players can use the message board to communicate with each other and the manager, while the calendar helps players stay organized by showing them their upcoming game locations and times. The alert board is managed by the team's manager and provides important updates and information to the players.\n\n The purpose of this project was to provide a convenient and user-friendly solution for sports teams to stay organized and connected. By creating a centralized platform for communication and organization, the application aims to improve team performance and player satisfaction.\n\n The result of this project is a functional Android application that meets the needs of sports teams. The message board, event, and alert board all function as intended, providing a simple and effective solution for team organization and communication. The application also requires a unique code provided by the manager to ensure the security of the team's information.\n\n The significance of this project lies in its potential to improve team organization and communication, leading to improved performance and player satisfaction. By providing a centralized platform for communication and organization, the application can save time and improve the overall team dynamic.\n\n In conclusion, the Team Hub mobile application is a user-friendly and effective solution for sports teams to stay organized and connected. The project successfully created a functional application that meets the needs of sports teams, providing a centralized platform for communication and organization. The potential impact of this application is significant, as it has the potential to improve team performance and player satisfaction."
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-2-215",
+            "title": "Business Analysis Dashboard",
+            "studentName": "Jerry Yan",
+            "studentMajor": "CSSE",
+            "projectType": "Internship - Capital One",
+            "facultyAdvisor": "Dr. Min Chen",
+            "posterLink": "./posters/csse/yan-jerryz.png",
+            "abstract": "Over the course of my internship my team and I developed a Dashboard application to integrate multiple different analytics applications into a single viewpoint. The project was split up into Sprints, an agile term for phases. Each of my fellow interns were assigned a specific layer of the project. I was responsible for the BFF(Backend for Frontend) layer. The BFF consists of many calls to other services like Authentication and Validation. It also contained a Rest API that allowed for Create, Read, Update, and Delete operations on a Dashboard component.\n\n The purpose of this project was to integrate the many different data analytics applications that Capital One’s associates were using. Before the application, there was no way of getting data from applications like Tableau, and Capital One Analytics to connect. This allowed us to generate graphs and charts that could use many different data sources without doing it manually, saving us a great deal of analyst work hours.\n\n The result of the project was a success. We were able to create the dashboard application in 10 weeks with the help of senior engineers, data analysts and managers at Capital One. Due to the limited time of my internship, my team was not able to deploy the application. I believe with a couple more weeks we could have seen the project be used in the company. Overall, I had a great time learning about what it took to be a Software engineer in the industry. I was constantly pushed to learn and grow by my seniors. My skills in programming were adequate, but I realized that I have so much more to learn about this industry."
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-2-230",
+            "title": "Working with Big Data at New Relic",
+            "studentName": "Jonathan Chu",
+            "studentMajor": "CSSE",
+            "projectType": "Internship - New Relic Inc.",
+            "facultyAdvisor": "Dr. Yang Peng",
+            "posterLink": "./posters/csse/chu-jonathan-tsuheng.png",
+            "abstract": "I worked as a software engineering intern at New Relic, a company that offers data telemetry and application performance monitoring as a Software as a Service SaaS product. Throughout my internship, I worked on a newly released New Relic feature known as historical data exports, which allows larger customers to export large amounts of data points without being limited by various standard query limits. My first project was to develop a feature to calculate the current percentage completed on running exports. I designed the implementation, unit tests, as well as ensuring the successful deployment to production and staging environments. Afterwards, I worked on integrating a GraphQL endpoint to allow users to cancel currently running exports with the click of a button. Both projects that I worked on are now currently deployed to production and help New Relic users in need to large data exports to query petabytes of data while additionally working on small tickets that were small configuration changes or version updates. I additionally learned how to handle live service incidents that frequently occur when developing cloud-based software. As a whole, I gained hands on experience working with a large amount of data at scale, and how products and services are designed with customer satisfaction at the core."
+        }              
+    ]
+}
